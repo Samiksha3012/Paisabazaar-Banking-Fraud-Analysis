@@ -61,7 +61,6 @@ Install the required libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
 
-*Note: The dataset is not included in this repository. Update the dataset paths before running the notebooks.*
 
 ## 📌 Conclusion
 
